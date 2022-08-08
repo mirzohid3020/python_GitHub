@@ -1,0 +1,1 @@
+# Bu file pycharmda yaratildi
